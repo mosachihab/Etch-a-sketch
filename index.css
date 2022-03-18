@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-size: x-large;
+
+}
+
+.contianer-button {
+    margin-top: 10px;
+
+}
+
+button {
+    padding: 10px;
+
+}
+
+.contianer {
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 800px;
+    height: 800px;
+    margin-top: 20px;
+}
